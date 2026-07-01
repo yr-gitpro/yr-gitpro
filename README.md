@@ -1,1 +1,1 @@
-<img width="1366" height="642" alt="03" src="https://github.com/user-attachments/assets/db6f9161-1338-45b8-9d68-dcc95d67eb24" />
+[dynamic-virtual-office-setup-with-laptop-and-web-applications-2.webm](https://github.com/user-attachments/assets/167d00a7-f288-4177-b51c-6f8d66ecd492)
