@@ -1,1 +1,2 @@
-[dynamic-virtual-office-setup-with-laptop-and-web-applications-2.webm](https://github.com/user-attachments/assets/167d00a7-f288-4177-b51c-6f8d66ecd492)
+https://github.com/user-attachments/assets/b90d350e-b3cf-4336-aad8-834b9ab80e8b
+<video src="https://github.com/user-attachments/assets/b90d350e-b3cf-4336-aad8-834b9ab80e8b" autoplay loop muted playsinline width="100%"></video>
