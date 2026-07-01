@@ -1,2 +1,3 @@
-https://github.com/user-attachments/assets/b90d350e-b3cf-4336-aad8-834b9ab80e8b
-<video src="https://github.com/user-attachments/assets/b90d350e-b3cf-4336-aad8-834b9ab80e8b" autoplay loop muted playsinline width="100%"></video>
+<img width="800" height="800" alt="me" src="https://github.com/user-attachments/assets/5499cdc3-7b87-4e3f-8153-3d4f9db8021f" />
+'''text
+              LET'S BUILD
